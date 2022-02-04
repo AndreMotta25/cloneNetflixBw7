@@ -1,3 +1,14 @@
+# Interface do netflix
+Adorei a oportunidade de poder montar está interface em react, e ainda aprendi a utilizar a api do `tmdb` (https://www.themoviedb.org/documentation/api?language=pt-BR). Mas 
+para frente planejo utilizar a lib `styled-components` neste projeto.
+
+### `Como começar ?` 
+  *   Faça o clone do repositorio https://github.com/AndreMotta25/cloneNetflixBw7
+  *   Com o vsCode aberto, vá ao terminal e digite npm install, assim as dependencias do projeto vão ser instaladas(esse processo pode demorar).
+  *   Com tudo instalado devidamente, vá ao terminal e digite npm start(pra rodar o app), 
+  *   Agora é so testar a aplicação.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
